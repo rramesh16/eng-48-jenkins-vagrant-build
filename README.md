@@ -3,7 +3,7 @@
 
 ## Intro to Jenkins
 
-### What is jenkins
+### What is jenkins?
 Jenkins is a free and open source automation server
 
 ### what is it for?
