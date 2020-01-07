@@ -1,4 +1,4 @@
-# Jenkins - CI
+# Jenkins (locally)- CI
 ## Objective: Create Jenkins locally using vagrant and create a CI to connect to an existing node-app repo on GitHub
 
 ## Intro to Jenkins
